@@ -1,0 +1,16 @@
+{
+  "name": "New Comer Safety Guide – LPHPP P3",
+  "short_name": "Safety Guide",
+  "description": "Site safety guide for new arrivals: hazards, PPE, signs, fire, assembly points, emergency numbers.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0075BF",
+  "theme_color": "#0075BF",
+  "icons": [
+    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png"},
+    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png"},
+    {"src":"icons/maskable-512.png","sizes":"512x512","type":"image/png","purpose":"maskable"}
+  ]
+}
